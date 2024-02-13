@@ -9,7 +9,7 @@ This user script automates gameplay in the Seterra game mode on GeoGuessr by aut
 ## How to Use
 
 1. Install a userscript manager extension such as Tampermonkey (for Chrome) or Greasemonkey (for Firefox).
-2. Install the script by clicking on [this link](https://update.greasyfork.org/scripts/474936/Seterra%20Hack.user.js).
+2. Install the script by clicking on [this link](https://update.greasyfork.org/scripts/487200/Seterra%20Bot.user.js).
 3. Open the Seterra game mode on GeoGuessr.
 4. When prompted, select the desired speed option for clicking.
 5. The script will automatically start clicking on the correct answers at the specified speed.
@@ -21,5 +21,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This script is inspired by the desire to automate gameplay for Seterra on GeoGuessr.
-- Special thanks to [azzlam](https://greasyfork.org/en/users/675363-azzlam) for the initial script implementation.
+- Credit to azzlam for creating the first script this was inspired by.
 
